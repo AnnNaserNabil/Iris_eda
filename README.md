@@ -47,17 +47,18 @@ To run the Streamlit application locally, follow these steps:
    git clone https://github.com/AnnNaserNabil/Iris_eda.git
    cd Iris_eda
 
-
-
+   
 2. Create a virtual environment and activate it:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
+<br/>
 
-2. Create a virtual environment and activate it:
+3. Create a virtual environment and activate it:
 ```bash
 python -m venv venv
+<br/>
 
 3. Install the required dependencies:
 ```bash
