@@ -6,11 +6,7 @@ This repository contains a Streamlit application for performing exploratory data
 - [Project Overview](#project-overview)
 - [Iris Dataset](#iris-dataset)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Project Overview
 The Iris dataset is a classic dataset in the field of machine learning and statistics. It consists of 150 samples of iris flowers, with measurements for sepal length, sepal width, petal length, and petal width. Each sample is classified into one of three species:
